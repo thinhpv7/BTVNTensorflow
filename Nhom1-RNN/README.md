@@ -1,6 +1,6 @@
 
 Mục đích: dùng để nhận dạng chữ số viết ta
-#Data
+#Data dimension
 num_input = 28          # MNIST data input (image shape: 28x28)
 timesteps = 28          # Timesteps
 số class sử dụng là 10
